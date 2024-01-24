@@ -28,7 +28,7 @@ name: TEST
 
 on:
   release:
-    types: [ "published" ]
+    types: [ "published", "unpublished", "created", "edited", "deleted", "prereleased", "released"]
 
 permissions:
   contents: read

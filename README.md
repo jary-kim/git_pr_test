@@ -1,1 +1,1 @@
-develop
+SBCW-677 운영이관 절차 테스트용 README
